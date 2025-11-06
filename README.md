@@ -9,8 +9,6 @@
 - 🌐 Geoprocessamento e Mapeamento de Dados (Folium)  
 - 🔬 Investigação e análise de sistemas
 
----
-
 ### 📘 Atualmente aprendendo
 - Redes de computadores e sockets
 - Visualização de dados geoespaciais
@@ -18,6 +16,14 @@
 
 ---
 
+
+<div>  
+  <a href = "mailto:keziamariamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/k%C3%A9zia-martins-559974397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+---
 
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=martins-kezia&show_icons=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD" media="(prefers-color-scheme: dark)" />
@@ -33,12 +39,4 @@
     <img align="center" alt="Kezia-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   </div>
 
-</div>
-
-<br><br>
-
-<div>  
-  <a href = "mailto:keziamariamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/k%C3%A9zia-martins-559974397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
